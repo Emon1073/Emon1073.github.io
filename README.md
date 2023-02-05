@@ -28,7 +28,7 @@ By updating the healthcare system's technology, the Government can control the i
 It is essential for a country to have a highly developed and modern healthcare system for all citizens. Health Information Technology is critical for improving the healthcare system's care efficiency and providing more care in small and rural healthcare. Government can control the internal health of the populations from the outbreak.
 
 ## Reference
-1. https://www.baytechit.com/
-2. https://www.ncbi.nlm.nih.gov/
-3. https://www.ibm.com/
-4. https://www.thedailystar.net/
+1. [https://www.baytechit.com/](https://www.baytechit.com/)
+2. [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
+3. [ https://www.ibm.com/](https://www.ibm.com/)
+4. [https://www.thedailystar.net/](https://www.thedailystar.net/)
