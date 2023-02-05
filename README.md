@@ -5,10 +5,15 @@ Health information technology (HIT) has become an essential part of the healthca
 
 ## Technology in the healthcare system
 ![technology](4.jpeg)<br>
+Technology in Healthcare system<br>
+
+
 Healthcare technology indicates any IT tools or applications designed to boost healthcare and administrative productivity, treatments, and quality of healthcare systems. The technology in the healthcare system is focused on decision-making and reveals the outputs from extensive data collection. The providers have gathered so much information that it would be impossible to analyze without technology like Artificial Intelligence. Artificial Intelligence helps the healthcare system generate complex data from traditional records, allowing providers to develop better healthcare conditions. Although advanced technology is still unpopular in so many healthcare systems in rural areas, they take care of the patients in the traditional way, which is difficult for physicians right now.
 
 ## History of Healthcare Technology
 ![History](5.jpeg)<br>
+old healthcare system<br>
+
 The roots of the health information management industry can be traced back to 1920 when healthcare professionals started using medical records to document and outcomes of patient medical care. In 1960 discussion began about how computers might enhance the practice of medicine and for the clinicians who decide to use computer technology. By the late 20th century, computers improved dramatically, and graphic user interfaces and networking technologies to connect computers were adopted widely for healthcare. Modern healthcare technology is commonly used in urban healthcare systems, especially in developed countries. Computer and electronic device plays a vital role in the operations of healthcare. From maintaining patient records to scheduling appointments, computers help hospital staff work more efficiently and effectively.
 
 ## Why Government should invest more in Healthcare Technology
